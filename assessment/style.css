@@ -1,0 +1,28 @@
+img {
+
+    border-radius: 5px;
+}
+video {
+    align-self: center;
+
+}
+ body {
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 8px;
+
+ }
+
+h1 {
+  color: white;
+  background: grey;
+  padding: 20px;
+  text-align: center;
+  margin:0px;
+  }
+h2,h3 {
+padding: 15px;
+border: 2px grey solid;
+margin:10px;
+background-color: #e2e2e2;
+}
